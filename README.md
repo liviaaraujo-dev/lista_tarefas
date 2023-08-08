@@ -5,6 +5,8 @@ App de lista de tarefas desenvolvido com o framework flutter<br>
 - Os dados estão sendo persistidos no back4app
 - Gerenciamento de estado está sendo feito com Getx
 
+<img height="700"  src="./print.jpg">
+
 
 ## Getting Started
 
